@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons {
+    text-align: right;
+}
+
+.icons div {
+    margin-left: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.icons i {
+    font-size: 24px; 
+}
+
+.section {
+    padding: 20px;
+    text-align: center; 
+}
+
+.titulo{
+    text-align: center;
+}
+
+.section h2 {
+    text-align: center; 
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+}
+
+nav ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px; 
+}
+
+nav ul li a {
+    text-decoration: none; 
+    color: #fff; 
+    padding: 5px 10px; 
+    border-radius: 5px; 
+    transition: background-color 0.3s; 
+}
+
+nav ul li a:hover {
+    background-color: #555; 
+}
+
+.icons div {
+    margin-left: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.icons i {
+    font-size: 24px; 
+    color: #fff; 
+}
+
+.icons span {
+    display: block; 
+    color: #fff; 
+}
+
+.slider-box {
+    position: relative;
+    overflow: hidden;
+    margin-left: 30px; /* Ajustar la distancia de la imagen del lado izquierdo */
+}
+
+.slider-box ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.slider-box ul li {
+    flex: 1 0 25%; 
+    position: relative;
+    display: flex; 
+}
+
+.slider-box ul li img {
+    max-width: 100%;
+    height: auto;
+}
+
+.slider-box ul li .Texto1 {
+    position: absolute;
+    top: 0;
+    right: 300px; 
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    border-radius: 1px;
+    margin-top: 10px; 
+    margin-right: 10px; 
+}
+
+.slider-box ul li .Texto2 {
+    position: absolute;
+    top: 0;
+    right: 520px; 
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    border-radius: 1px;
+    margin-top: 10px; 
+    margin-right: 10px; 
+}
+
+.slider-box ul li .Texto3 {
+    position: absolute;
+    top: 0;
+    right: 125px; 
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    border-radius: 1px;
+    margin-top: 10px; 
+    margin-right: 10px; 
+}
+
+.slider-box ul li .Texto4 {
+    position: absolute;
+    top: 0;
+    right: 170px; 
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    border-radius: 1px;
+    margin-top: 10px; 
+    margin-right: 10px; 
+}
+
+.slider-box ul li .Texto5 {
+    position: absolute;
+    top: 0;
+    right: 250px; 
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    border-radius: 1px;
+    margin-top: 10px; /* Ajustar la distancia del texto a la imagen */
+    margin-right: 10px; /* Ajustar la distancia del texto al lado derecho */
+}
+
+
+
