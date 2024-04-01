@@ -10,7 +10,7 @@ body {
     width: 300px;
     margin: 100px auto;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.6); /* Ajustar la opacidad aquí */
+    background-color: rgba(255, 255, 255, 0.6); 
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
