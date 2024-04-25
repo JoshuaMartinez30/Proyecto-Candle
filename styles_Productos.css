@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: sans-serif;
     position: relative;
-    padding-bottom: 4em;
+    padding-bottom: 5em;
     min-height: 100vh;
 }
 
@@ -121,6 +121,100 @@ nav ul li a:hover {
 .slider-box ul li img {
     max-width: 100%;
     height: auto;
+}
+
+.producto {
+    display: flex;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.imagen img {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.descripcion {
+    flex: 1;
+}
+
+.descripcion h3 {
+    margin-top: 0;
+}
+
+.descripcion p {
+    margin-bottom: 20px;
+}
+
+.cantidad {
+    margin-bottom: 20px;
+}
+
+.cantidad button {
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+.cantidad button:hover {
+    background-color: #ddd;
+}
+
+.cantidad span {
+    margin: 0 10px;
+}
+
+/* Estilos para los botones */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #555;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #333;
+}
+
+/* Estilos para los botones de cantidad */
+.cantidad button {
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 1px solid #555;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.cantidad button:hover {
+    background-color: #eee;
+}
+
+/* Estilos para el botón de agregar al carrito */
+.agregar-carrito {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #008CBA;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.agregar-carrito:hover {
+    background-color: #005f75;
 }
 
 

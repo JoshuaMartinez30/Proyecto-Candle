@@ -46,13 +46,13 @@
 
     <div class="producto">
     <div class="imagen">
-        <img src="\Proyecto Candle\Imagenes\Productos\Candles\Kit.png" alt="Producto">
+        <img src="\Proyecto Candle\Imagenes\Productos\Difussers\1.png" alt="Producto">
     </div>
     <div class="descripcion">
-        <h3>Kit para descubrir nuestras fragancias</h3>
+        <h3>Home Spray 8 oz - elige la fragancia</h3>
         <p><u>Informacion Del Producto:</u></p>
-        <p>Este Kit para descubrir nuestras fragancias es la mejor manera de explorar la variedad de aromas de nuestro amplio catálogo. Cada kit incluye 5 velitas pequeñas, cada una con un aroma* diferente, y con una duración aproximada de 2 horas.</p>
-        <h3>L 250.00 HNL</h3>
+        <p>Aromatizantes para textiles. Se aplica sobre sábanas, cortinas, sillones, cojines, etc. Te desinfecta y aromatiza todo el espacio con un par de rociadas. El aroma fuerte dura 2 horas, pero si lo rocías por la mañana sobre tu cama, en la noche que llegues aún sentirás ese aroma suavemente.</p>
+        <h3>L 450.00 HNL</h3>
         <div class="cantidad">
             <button onclick="restarCantidad(1)">-</button>
             <span id="cantidad_1">1</span>
@@ -65,13 +65,13 @@
 
 <div class="producto">
     <div class="imagen">
-        <img src="\Proyecto Candle\Imagenes\Productos\Candles\Aurora.png" alt="Producto">
+        <img src="\Proyecto Candle\Imagenes\Productos\Difussers\2.png" alt="Producto">
     </div>
     <div class="descripcion">
-        <h3>Aurora Candle color Universo- aroma nuevo Raspberry & Vanilla</h3>
+        <h3>Wax Melt - elige la fragancia</h3>
         <p><u>Informacion Del Producto:</u></p>
-        <p>El "frasco" de esta vela está moldeado artesanalmente con cera. Solo se puede hacer una vela a la vez, lo cual las hace exclusivas y únicas. Puedes notar variaciones entre cada una, siendo así; irrepetibles. </p>
-        <h3>L 450.00 HNL</h3>
+        <p>Disfruta de la fragancia en tus espacios gracias a nuestras pastillas de cera de soya aromáticas. Perfectas para usar con quemadores o lámparas con plato para derretir, la cera de soya proporciona una liberación de fragancia suave y duradera. ¡Elige la fragancia que más te guste!</p>
+        <h3>L 200.00 HNL</h3>
         <div class="cantidad">
             <button onclick="restarCantidad(2)">-</button>
             <span id="cantidad_2">1</span>
@@ -85,13 +85,13 @@
 
 <div class="producto">
     <div class="imagen">
-        <img src="\Proyecto Candle\Imagenes\Productos\Candles\Sweet.png" alt="Producto">
+        <img src="\Proyecto Candle\Imagenes\Productos\Difussers\3.png" alt="Producto">
     </div>
     <div class="descripcion">
-        <h3>Sweet Home "M” 12 oz - Elige la fragancia</h3>
+        <h3>Gotero 2 oz - elige la fragancia</h3>
         <p><u>Informacion Del Producto:</u></p>
-        <p>Transforma tu hogar en un oasis acogedor con Sweet Home "M” 12 oz. Con una vela aromática de estás que te brindarán una excelente potencia de aroma y sumado su decoración de flores naturales secas, crea una atmósfera relajante y decorativa.</p>
-        <h3>L 520.00 HNL</h3>
+        <p>Nuestro Gotero 2 oz es la perfecta combinación entre fragancia lujosa y usos múltiples. Todas nuestras fragancias están certificadas como clean scents, para uso en lámparas tipo quemadores o humificadores. Explora tu sentido del aroma, elige entre una amplia variedad de fragancias y crea un ambiente único en tu hogar.</p>
+        <h3>L 400.00 HNL</h3>
         <div class="cantidad">
             <button onclick="restarCantidad(3)">-</button>
             <span id="cantidad_3">1</span>
@@ -104,13 +104,13 @@
 
 <div class="producto">
     <div class="imagen">
-        <img src="\Proyecto Candle\Imagenes\Candles.png" alt="Producto">
+        <img src="\Proyecto Candle\Imagenes\Productos\Difussers\4.png" alt="Producto">
     </div>
     <div class="descripcion">
-        <h3>Moonflower - Apothecary Candle 16 oz</h3>
+        <h3>Reed Diffuser - Difusor de junco</h3>
         <p><u>Informacion Del Producto:</u></p>
-        <p>Siente la primavera con Moonflower. La perfecta combinación de pera, flor de cerezo, rosa y agave crea una fragancia exquisita y elegante. Disfruta de este aroma que se convertirá en tu preferido.</p>
-        <h3>L 700.00 HNL</h3>
+        <p>Aromatiza tu hogar con la elegancia y confort de un difusor de junco Reed Diffuser. Incorpora las varillas de bambú para una difusión sin fuego ni electricidad y disfruta del aroma que embellece cada ambiente. Ideal para tu hogar, oficina o sala de estar. Un toque de exclusividad y estilo para tu hogar.</p>
+        <h3>L 6500.00 HNL</h3>
         <div class="cantidad">
             <button onclick="restarCantidad(4)">-</button>
             <span id="cantidad_4">1</span>

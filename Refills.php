@@ -46,13 +46,13 @@
 
     <div class="producto">
     <div class="imagen">
-        <img src="\Proyecto Candle\Imagenes\Productos\Candles\Kit.png" alt="Producto">
+        <img src="\Proyecto Candle\Imagenes\Productos\Refills\Refill1.png" alt="Producto">
     </div>
     <div class="descripcion">
-        <h3>Kit para descubrir nuestras fragancias</h3>
+        <h3>Refill para difusor para carro / elige la fragancia</h3>
         <p><u>Informacion Del Producto:</u></p>
-        <p>Este Kit para descubrir nuestras fragancias es la mejor manera de explorar la variedad de aromas de nuestro amplio catálogo. Cada kit incluye 5 velitas pequeñas, cada una con un aroma* diferente, y con una duración aproximada de 2 horas.</p>
-        <h3>L 250.00 HNL</h3>
+        <p>¡Ahora puedes reutilizar tus difusores de carro llenándolos nuevamente con estos refills! Este frasco pequeño te alcanzará para dos usos más, solo recuerda seguir al pie de la letra las instrucciones de su uso. También puedes utilizarlo como gotero para tus difusores de agua.</p>
+        <h3>L 150.00 HNL</h3>
         <div class="cantidad">
             <button onclick="restarCantidad(1)">-</button>
             <span id="cantidad_1">1</span>
@@ -65,13 +65,13 @@
 
 <div class="producto">
     <div class="imagen">
-        <img src="\Proyecto Candle\Imagenes\Productos\Candles\Aurora.png" alt="Producto">
+        <img src="\Proyecto Candle\Imagenes\Productos\Refills\Refill2.png" alt="Producto">
     </div>
     <div class="descripcion">
-        <h3>Aurora Candle color Universo- aroma nuevo Raspberry & Vanilla</h3>
+        <h3>Refill para Home sprays / elige la fragancia</h3>
         <p><u>Informacion Del Producto:</u></p>
-        <p>El "frasco" de esta vela está moldeado artesanalmente con cera. Solo se puede hacer una vela a la vez, lo cual las hace exclusivas y únicas. Puedes notar variaciones entre cada una, siendo así; irrepetibles. </p>
-        <h3>L 450.00 HNL</h3>
+        <p>¡Recarga tus home sprays en casa! Elige tu fragancia favorita y dale un segundo uso a tu frasco. Ahorra en cada compra y disfruta de la comodidad de tener tus propios home sprays en casa. ¡Haz que tu hogar siempre huela a fresco y limpio! ¡No esperes más y prueba nuestros refill ahora! </p>
+        <h3>L 300.00 HNL</h3>
         <div class="cantidad">
             <button onclick="restarCantidad(2)">-</button>
             <span id="cantidad_2">1</span>
@@ -85,13 +85,13 @@
 
 <div class="producto">
     <div class="imagen">
-        <img src="\Proyecto Candle\Imagenes\Productos\Candles\Sweet.png" alt="Producto">
+        <img src="\Proyecto Candle\Imagenes\Productos\Refills\Refill3.png" alt="Producto">
     </div>
     <div class="descripcion">
-        <h3>Sweet Home "M” 12 oz - Elige la fragancia</h3>
+        <h3>Refill para velas - Experiencia en casa</h3>
         <p><u>Informacion Del Producto:</u></p>
-        <p>Transforma tu hogar en un oasis acogedor con Sweet Home "M” 12 oz. Con una vela aromática de estás que te brindarán una excelente potencia de aroma y sumado su decoración de flores naturales secas, crea una atmósfera relajante y decorativa.</p>
-        <h3>L 520.00 HNL</h3>
+        <p>¡Crea un ambiente acogedor en tu hogar con nuestro Refill para velas! Este kit incluye un vaso con cera lista para derretir en el microondas y personalizar tu vela. Disfruta del placer de hacer tu propia vela y relájate con su caliente y aromático aroma.</p>
+        <h3>L 380.00 HNL</h3>
         <div class="cantidad">
             <button onclick="restarCantidad(3)">-</button>
             <span id="cantidad_3">1</span>
@@ -104,13 +104,13 @@
 
 <div class="producto">
     <div class="imagen">
-        <img src="\Proyecto Candle\Imagenes\Candles.png" alt="Producto">
+        <img src="\Proyecto Candle\Imagenes\Productos\Refills\Refill4.png" alt="Producto">
     </div>
     <div class="descripcion">
-        <h3>Moonflower - Apothecary Candle 16 oz</h3>
+        <h3>Refill para Reed Diffuser / elige la fragancia</h3>
         <p><u>Informacion Del Producto:</u></p>
-        <p>Siente la primavera con Moonflower. La perfecta combinación de pera, flor de cerezo, rosa y agave crea una fragancia exquisita y elegante. Disfruta de este aroma que se convertirá en tu preferido.</p>
-        <h3>L 700.00 HNL</h3>
+        <p>¡Recarga tus Difusores de junco en casa! Elige tu fragancia favorita y dale un segundo uso a tu frasco. Ahorra en cada compra y disfruta de la comodidad de tener tus Reed Diffuser en casa. ¡Haz que tu hogar siempre huela a fresco y limpio!</p>
+        <h3>L 400.00 HNL</h3>
         <div class="cantidad">
             <button onclick="restarCantidad(4)">-</button>
             <span id="cantidad_4">1</span>
